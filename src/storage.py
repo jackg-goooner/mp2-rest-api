@@ -1,5 +1,3 @@
-"""In-memory storage for uploaded datasets."""
-
 import logging
 
 logger = logging.getLogger(__name__)

@@ -1,5 +1,3 @@
-"""Shared command-line helpers for the data pipeline."""
-
 import logging
 from pathlib import Path
 

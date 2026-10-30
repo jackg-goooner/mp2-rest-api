@@ -1,5 +1,3 @@
-"""Response models for the data processing API."""
-
 from pydantic import BaseModel, Field
 
 

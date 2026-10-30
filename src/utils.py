@@ -1,5 +1,3 @@
-"""Shared logging helpers."""
-
 import logging
 
 

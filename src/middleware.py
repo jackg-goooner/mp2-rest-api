@@ -1,5 +1,3 @@
-"""Request logging middleware with correlation IDs."""
-
 import logging
 import time
 import uuid
